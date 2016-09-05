@@ -1,2 +1,3 @@
 # scala-fp
-fp ruminations
+fp ruminations based on cats
+
