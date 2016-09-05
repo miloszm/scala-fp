@@ -1,0 +1,2 @@
+# scala-fp
+fp ruminations
